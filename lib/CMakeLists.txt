@@ -1,0 +1,5 @@
+add_subdirectory(RF24)
+add_subdirectory(mpu6050)
+add_subdirectory(joystick)
+add_subdirectory(pico-ssd1306)
+add_subdirectory(esc)
